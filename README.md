@@ -40,7 +40,7 @@ The analysis aims to support data-driven decision-making for Myntra’s manageme
 
 ## **Tools Used**  
 - **Microsoft Excel**: For data cleaning, analysis, and advanced lookup functions.  
-- **PowerPoint**: For creating a visually appealing presentation of insights.  
+- **Canva**: For creating a visually appealing presentation of insights.  
 
 ---
 
